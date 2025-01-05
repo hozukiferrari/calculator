@@ -1,1 +1,1 @@
-"#simple calculator using python" 
+This application is for testing
